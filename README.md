@@ -1,3 +1,1 @@
-# George_firstpython.py
-# display the output
-# Print("new python file")
+IBM_COGNOS_DASHBORD
